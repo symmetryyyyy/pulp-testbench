@@ -1,0 +1,4 @@
+WORK ./work 2 DEFAULT
+DEFAULT ./work 2 -
+IEEE /home/tools/Synopsys/vcs_mx_vN-2017.12/linux64/packages/IEEE/lib 2 -
+SYNOPSYS /home/tools/Synopsys/vcs_mx_vN-2017.12/linux64/packages/synopsys/lib 2 -

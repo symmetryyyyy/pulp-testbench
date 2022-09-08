@@ -1,0 +1,11 @@
+WORK > DEFAULT
+DEFAULT : ./work
+ 
+-- Library Mapping
+IEEE : $VCS_HOME/linux64/packages/IEEE/lib
+SYNOPSYS : $VCS_HOME/linux64/packages/synopsys/lib
+ 
+--Simulation variables
+ASSERT_STOP = ERROR
+TIMEBASE = ns
+TIME_RESOLUTION = 1 ps

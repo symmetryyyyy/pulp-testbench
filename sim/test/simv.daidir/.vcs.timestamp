@@ -1,0 +1,144 @@
+0 
+23
+-Mamsrun=
+-Masflags=
+-Mcc=gcc-5
+-Mcfl= -pipe -fPIC -O -I/home/tools/Synopsys/vcs_mx_vN-2017.12/include
+-Mcplusplus=g++-5
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mexternalobj=
+-Mldflags= -Wl,--no-as-needed -rdynamic
+-Mobjects= /home/tools/Synopsys/vcs_mx_vN-2017.12/linux64/lib/libvirsim.so /home/tools/Synopsys/vcs_mx_vN-2017.12/linux64/lib/liberrorinf.so /home/tools/Synopsys/vcs_mx_vN-2017.12/linux64/lib/libsnpsmalloc.so /home/tools/Synopsys/vcs_mx_vN-2017.12/linux64/lib/libvfs.so
+-Mout=simv
+-Msaverestoreobj=/home/tools/Synopsys/vcs_mx_vN-2017.12/linux64/lib/vcs_save_restore_new.o
+-Msyslibs=-ldl
+-Mupdate
+-Mvcsaceobjs=
+-Mxcflags= -pipe -fPIC -I/home/tools/Synopsys/vcs_mx_vN-2017.12/include
+-Xvcs_run_simv=1
+-f test.f
+-gen_obj
+-picarchive
+-sverilog
+/home/tools/Synopsys/vcs_mx_vN-2017.12/linux64/bin/vcs1
+105
+sysc_uni_pwd=/home/wangchengxuan/pulp-master/sim/test
+pango_HOME=/home/tools/pango/PDS_2017.1B-patch4-CentOS64/PDS_2017.1B-patch4/bin
+_CE_M=
+_CE_CONDA=
+XDG_SESSION_TYPE=tty
+XDG_SESSION_ID=2167
+XDG_SESSION_CLASS=user
+XDG_RUNTIME_DIR=/run/user/1002
+XDG_DATA_DIRS=/usr/local/share:/usr/share:/var/lib/snapd/desktop
+VSCODE_IPC_HOOK_CLI=/run/user/1002/vscode-ipc-f6f71665-a548-4eb1-ac4c-6cf0e63b501e.sock
+VSCODE_GIT_IPC_HANDLE=/run/user/1002/vscode-git-9803fe0b45.sock
+VSCODE_GIT_ASKPASS_NODE=/home/wangchengxuan/.vscode-server/bin/784b0177c56c607789f9638da7b6bf3230d47a8c/node
+VSCODE_GIT_ASKPASS_MAIN=/home/wangchengxuan/.vscode-server/bin/784b0177c56c607789f9638da7b6bf3230d47a8c/extensions/git/dist/askpass-main.js
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+VMR_MODE_FLAG=32
+VERDI_HOME=/home/tools/Synopsys/verdi_vO-2018.09
+VCS_TARGET_ARCH=amd64
+VCS_MX_HOME_INTERNAL=1
+VCS_HOME=/home/tools/Synopsys/vcs_mx_vN-2017.12
+VCS_DEPTH=0
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH_OVERRIDE=linux
+VCS_ARCH=linux64
+UVM_HOME=/home/tools/Synopsys/uvm-1.1d
+UNAME=/bin/uname
+TOOL_HOME=/home/tools/Synopsys/vcs_mx_vN-2017.12/linux64
+TERM_PROGRAM_VERSION=1.71.0
+TERM_PROGRAM=vscode
+SYN_HOME=/home/tools/Synopsys/syn_vK-2015.06
+SYNPSLMD_LICENSE_FILE=/home/wangzongsheng/Synopsys.dat
+SYNOPSYS=/home/common/License
+STARRC_HOME=/home/tools/Synopsys/starrc_vN-2017.12
+SSH_CONNECTION=10.212.43.3 8745 10.212.43.82 22
+SSH_CLIENT=10.212.43.3 8745 22
+SPECTRE_DEFAULTS=-E
+SNPS_VCS_CLANG_PATH=/fs/src/interfaces/LLVM_Project/QSCM/opt/llvm-3.9.1/linux64
+SDKMAN_DIR=/home/wangzongsheng/.sdkman
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+SCL_HOME=/home/tools/Synopsys/scl_v2018.06-SP1
+RISC=/opt/riscv/newlib-32
+Quartus_home=/home/tools/intelFPGA_lite/16.1/quartus
+QSYS_ROOTDIR=/home/tools/intelFPGA_lite/16.1/quartus/sopc_builder/bin
+PYLEARN2_DATA_PATH=/home/common/dataset
+PT_HOME=/home/tools/Synopsys/pt_vK-2015.06
+PKG_CONFIG_PATH=:/usr/local/lib/pkgconfig:/usr/local/lib/pkgconfig
+PK32=/home/software/pk/riscv32-unknown-elf/bin
+PANGO_LICENSE_FILE=/home/tools/pango/PDS_2017.1B-patch4-CentOS64/PDS_2017.1B-patch4/Pango_License_UN_EAB1FCF0F767.lic
+OVPHOME=/home/tools/
+OVA_UUM=0
+OA_UNSUPPORTED_PLAT=linux_rhel50_gcc44x
+OA_HOME=/home/tools/Cadence/IC616/oa_v22.43.018
+NOVAS_HOME=/home/tools/Synopsys/verdi_vO-2018.09
+MOTD_SHOWN=pam
+MODELSIM_HOME=/home/tools/Mentor/modelsim_se_10.2c/modeltech/
+MMSIMHOME=/home/tools/Cadence/MMSIM121
+MGLS_LICENSE_FILE=27001@zju-cpu:/home/software/modelsim_10.2c/LICENSE.dat
+MGC_HOME=/home/tools/Mentor/Calibre/aoi_cal_2015.2_36.27
+MEMAKER=/home/common/PDK/UMC_55nm_eflash/UMC55ULP_EF_PDK/UMC55ULP_EF/UMC55ULP_EF/memory/FSF0G_Memaker/201801.1.1/memlib
+MATLAB_HOME=/home/tools/MATLAB/R2017b
+LESSOPEN=| /usr/bin/lesspipe %s
+LESSCLOSE=/usr/bin/lesspipe %s %s
+LC_TIME=zh_CN.UTF-8
+LC_TELEPHONE=zh_CN.UTF-8
+LC_PAPER=zh_CN.UTF-8
+LC_NUMERIC=zh_CN.UTF-8
+LC_NAME=zh_CN.UTF-8
+LC_MONETARY=zh_CN.UTF-8
+LC_MEASUREMENT=zh_CN.UTF-8
+LC_IDENTIFICATION=zh_CN.UTF-8
+LC_ALL=C
+LC_ADDRESS=zh_CN.UTF-8
+IMPERAS_VLNV=/home/tools//Imperas.20170511/lib/Linux32/ImperasLib
+IMPERAS_UNAME=Linux
+IMPERAS_SHRSUF=so
+IMPERAS_RUNTIME=OVPsim
+IMPERAS_ISS=iss.exe
+IMPERAS_HOME=/home/tools//Imperas.20170511
+IMPERAS_ARCH=Linux32
+IMPERASD_LICENSE_FILE=/home/tools/Imperas.20170511/OVPsim.lic
+ICC_HOME=/home/tools/Synopsys/ic_compiler_vN-2017.09-SP2
+GIT_ASKPASS=/home/wangchengxuan/.vscode-server/bin/784b0177c56c607789f9638da7b6bf3230d47a8c/extensions/git/dist/askpass.sh
+FSDB_HOME=/home/tools/Synopsys/verdi_vO-2018.09
+FM_HOME=/home/tools/Synopsys/fm_vN-2017.09-SP2
+DVE_HOME=/home/tools/Synopsys/vcs_mx_vN-2017.12/gui/dve
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1002/bus
+CONDA_SHLVL=1
+CONDA_PYTHON_EXE=/home/software/anaconda3/bin/python
+CONDA_PROMPT_MODIFIER=(base) 
+CONDA_PREFIX=/home/software/anaconda3
+CONDA_EXE=/home/software/anaconda3/bin/conda
+CONDA_DEFAULT_ENV=base
+COLORTERM=truecolor
+CDS_SPECTRERF_FBENABLE=1
+CDS_Netlisting_Mode=Analog
+CDS_LOAD_ENV=CWDElseHome
+CDS_INST_DIR=/home/tools/Cadence/IC616
+CDS_AUTO_64BIT=ALL
+CDSHOME=/home/tools/Cadence/IC616
+CDSDIR=/home/tools/Cadence/IC616
+CDS=/home/tools/Cadence/IC616
+CALIBRE_HOME=/home/tools/Mentor/Calibre/aoi_cal_2015.2_36.27/
+CADHOME=/home/tools/Cadence
+CADENCE_DIR=/home/tools/Cadence/IC616
+ASSURAHOME=/home/tools/Cadence/ASSURA41
+0
+4
+1662470390 ./test3.sv
+1662470447 ./test2.sv
+1662470406 ./test.sv
+1662470301 test.f
+5
+0 
+1509116678 /home/tools/Synopsys/vcs_mx_vN-2017.12/linux64/lib/libvirsim.so
+1509116678 /home/tools/Synopsys/vcs_mx_vN-2017.12/linux64/lib/liberrorinf.so
+1509116678 /home/tools/Synopsys/vcs_mx_vN-2017.12/linux64/lib/libsnpsmalloc.so
+1509116678 /home/tools/Synopsys/vcs_mx_vN-2017.12/linux64/lib/libvfs.so
+1662470461 simv.daidir
